@@ -1,4 +1,4 @@
-# -Program-for-simple-interest-in-python
+# -Program-for-simple-interest-in-python 
 p=int(input("Enter the principle"))
 t=int(input("Enter the time"))  
 r=int(input("Enter the rate")) 
